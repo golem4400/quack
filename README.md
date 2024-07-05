@@ -2,23 +2,11 @@
 
 <img src="./images/1.jpg" />
 
-Đây là công cụ tui làm ra chỉ để thử sức cũng như học hỏi thêm về code nên nó rất đơn giản và đôi khi có nhiều lỗi
-
-Vì công việc của tui là sửa laptop chứ không phải làm về code 👉 https://www.tiktok.com/@mhqb365
+Một bản fork từ tool của mhqb365
 
 Windows / Mac / Linux / Android đều dùng được miễn cài được NodeJS 👉 https://nodejs.org/en/download/prebuilt-installer
 
-Mọi người có hứng thú với con game vô tri này thì tham gia ở đây 👉 https://t.me/quackquack_game_bot?start=6hn8Xrp7DK
-
 Link Tool chính thức 👉 https://j2c.cc/quack
-
-## Tuyên bố miễn trừ trách nhiệm
-
-Tui (mhqb365) là chủ sở hữu của những đoạn code trên, tuyên bố sẽ miễn trừ trách nhiệm khi bạn sử dụng những đoạn code này
-
-Bạn có quyền sử dụng nó tùy ý, tuy nhiên xin lưu ý rằng trong mọi trường hợp, khi bạn sử dụng những đoạn code trên cho những mục đích xấu, sửa đổi hoặc những việc tương tự nhằm mục đích gây hại cho những cá nhân, tổ chức khác, bạn sẽ phải chịu trách nhiệm cho những việc đó. Tôi sẽ không phải chịu bất cứ trách nhiệm gì từ việc này
-
-Chúc bạn sử dụng Tool vui vẻ
 
 ## Tính năng
 
