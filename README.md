@@ -109,6 +109,7 @@ Muốn chạy chức năng nào thì chọn dòng code tương ứng bên dướ
 <img src="./images/8.jpg" />
 
 ## Chạy Tool không cần treo Terminal
+```npm install @babel/core @babel/cli @babel/preset-env @babel/node --save-dev```
 
 Bạn muốn Tool chạy ngầm? ```pm2``` sẽ giúp bạn làm điều này
 
