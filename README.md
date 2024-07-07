@@ -9,6 +9,10 @@ Windows / Mac / Linux / Android đều dùng được miễn cài được NodeJ
 Link Tool chính thức 👉 https://j2c.cc/quack
 
 ## Tính năng
+```sudo apt update```
+```sudo apt upgrade```
+```sudo apt install nodejs```
+```npm install @babel/core @babel/cli @babel/preset-env @babel/node --save-dev```
 
 Tự động lụm trứng
 
@@ -109,7 +113,7 @@ Muốn chạy chức năng nào thì chọn dòng code tương ứng bên dướ
 <img src="./images/8.jpg" />
 
 ## Chạy Tool không cần treo Terminal
-```npm install @babel/core @babel/cli @babel/preset-env @babel/node --save-dev```
+
 
 Bạn muốn Tool chạy ngầm? ```pm2``` sẽ giúp bạn làm điều này
 
