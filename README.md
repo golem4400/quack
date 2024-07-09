@@ -1,7 +1,5 @@
 # Quack Quack Game Tool
 
-<img src="./images/1.jpg" />
-
 Một bản fork từ tool của mhqb365
 
 Windows / Mac / Linux / Android đều dùng được miễn cài được NodeJS 👉 https://nodejs.org/en/download/prebuilt-installer
@@ -12,6 +10,7 @@ Link Tool chính thức 👉 https://j2c.cc/quack
 ```sudo apt update```
 ```sudo apt upgrade```
 ```sudo apt install nodejs```
+```npm install axios```
 ```npm install @babel/core @babel/cli @babel/preset-env @babel/node --save-dev```
 
 Tự động lụm trứng
